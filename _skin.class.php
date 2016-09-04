@@ -17,6 +17,13 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  */
 class pixelgreen_Skin extends Skin
 {
+	/**
+	 * Skin version
+	 * @var string
+	 */
+	var $version = '1.1.0';
+	
+	
  	/**
 	 * Get default name for the skin.
 	 * Note: the admin can customize it.

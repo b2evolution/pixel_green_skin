@@ -1,6 +1,7 @@
 ## Pixel Green skin for b2evolution CMS blog.
+Current stable version: 1.1.0
 
-Link to skin: http://skins.b2evolution.net/pixel-green-skin
+Link to skin: http://skins.b2evolution.net/pixelgreen-skin
 
 <img src="skinshot.png"/>
 
